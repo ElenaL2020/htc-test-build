@@ -1,0 +1,41 @@
+div { 
+	color:DarkBlue;
+font-family:Helvetica;
+font-weight:bold; 
+font-size: 16px;
+font-style: normal; 	
+}
+.superbutton {
+width:100px;
+height:30px;
+border-radius:4px;
+border: 2px solid DarkBlue; 
+background:white;
+color:DarkBlue;
+cursor:pointer;
+font-family:Helvetica;
+font-weight:bold; 
+font-size: 16px;
+}
+.place {
+width:200px;
+height:30px;
+border-radius:4px;
+border: 2px solid DarkBlue;
+}
+.main 
+{
+font-family:Helvetica;
+font-weight:bold; 
+font-size: 16px;
+font-style: normal;
+position: absolute;
+right: 10px;
+bottom: 30px;
+}		
+.message {color:DarkBlue;
+font-family:Helvetica;
+font-weight:bold; 
+font-size: 16px;
+font-style: normal;
+}
